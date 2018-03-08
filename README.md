@@ -39,4 +39,4 @@ optional arguments:
 
 
 
-Note: The Origional Source doser.py https://github.com/Quitten/doser.py
+Note : All credit goes to Quitten, Origional source
